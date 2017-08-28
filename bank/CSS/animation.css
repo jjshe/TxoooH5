@@ -1,11 +1,4 @@
 ﻿@charset "UTF-8";
-/**
- * 
- * @authors 杜明鸿 (dmh@duminghong.com)
- * @date    2015-07-30 11:19:52
- * @website http://www.duminghong.com
- */
-
 /*-----------------添加过渡属性-----------------*/
 .swiper-slide-active .transition{
     -webkit-transition:all 1s ease .2s;
